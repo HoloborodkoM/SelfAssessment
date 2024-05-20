@@ -12,72 +12,72 @@
   - Tuple store
   - Graph databases
   - Object databases: 👂 heard
-  - Column databases: 🎓 known
+  - Column databases: 🖐️ used
   - Navigational databases: 👂 heard
   - Hierarchical databases: 👂 heard
   - In-memory databases
   - Inverted index
-  - Data control language (DCL)
-  - Data definition language (DDL)
-  - Data manipulation language (DML)
-  - Data query language (DQL): 👂 heard
+  - Data control language (DCL): 🎓 known
+  - Data definition language (DDL): 🎓 known
+  - Data manipulation language (DML): 🎓 known
+  - Data query language (DQL): 🖐️ used
 - Relational
-  - Entity-Relationship Diagram
+  - Entity-Relationship Diagram: 👂 heard
   - Normal forms
   - Indexing
-  - Primary keys: 👂 heard
-  - Foreign keys: 👂 heard
-  - Transactions: 👂 heard
+  - Primary keys: 🎓 known
+  - Foreign keys: 🎓 known
+  - Transactions: 🎓 known
   - Views: 👂 heard
-  - Subqueries
+  - Subqueries: 👂 heard
   - Stored procedures
-  - SQL functions: 👂 heard
+  - SQL functions: 🎓 known
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`: 👂 heard
-  - `INSERT`: 👂 heard
-  - `UPDATE`: 👂 heard
-  - `DELETE`: 👂 heard
-  - `LIMIT`
-  - `OFFSET`
-  - `ORDER BY`: 👂 heard
-  - `GROUP BY`: 👂 heard
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
+  - `LIMIT`: 🖐️ used
+  - `OFFSET`: 🖐️ used
+  - `ORDER BY`: 🖐️ used
+  - `GROUP BY`: 🖐️ used
   - `HAVING`
-  - `EXISTS`
-  - `JOIN`: 👂 heard
-  - `INNER JOIN`
+  - `EXISTS`: 🖐️ used
+  - `JOIN`: 🖐️ used
+  - `INNER JOIN`: 🖐️ used
   - `LEFT JOIN`
   - `RIGHT JOIN`
-  - `UNION`
-  - `DISTINCT`
-  - `WHERE`: 👂 heard
-  - `LIKE`: 👂 heard
-  - `IN`: 👂 heard
-  - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
-  - `CHECK`
-  - `DEFAULT`
+  - `UNION`: 🖐️ used
+  - `DISTINCT`: 🖐️ used
+  - `WHERE`: 🖐️ used
+  - `LIKE`: 🖐️ used
+  - `IN`: 🖐️ used
+  - `BETWEEN`: 🖐️ used
+  - `CREATE TABLE`: 🖐️ used
+  - `ALTER TABLE`: 🖐️ used
+  - `DROP TABLE`: 🖐️ used
+  - `PRIMARY KEY`: 🖐️ used
+  - `FOREIGN KEY`: 🖐️ used
+  - `CHECK`: 🖐️ used
+  - `DEFAULT`: 🖐️ used
   - `INDEX`
   - `UNIQUE`
-  - `GRANT`
+  - `GRANT`: 🖐️ used
   - `REVOKE`
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL: 👂 heard
+  - PostgreSQL: 🖐️ used
   - Oracle: 👂 heard
-  - MySQL: 👂 heard
-  - MariaDB
-  - MS SQL Server
+  - MySQL: 🎓 known
+  - MariaDB: 🖐️ used
+  - MS SQL Server: 🖐️ used
   - Redis
   - Rabbit
-  - MongoDB: 👂 heard
+  - MongoDB: 🖐️ used
   - Memcached
   - Riak
   - DB2
@@ -87,8 +87,8 @@
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data: 👂 heard
-  - Data analysis: 👂 heard
-  - AI tools: 👂 heard
-  - Cloud databases: 👂 heard
+  - Big data: 🎓 known
+  - Data analysis: 🎓 known
+  - AI tools: 🎓 known
+  - Cloud databases: 🎓 known
   - Data Visualization: 👂 heard
