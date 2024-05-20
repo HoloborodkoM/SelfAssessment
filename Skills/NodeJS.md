@@ -33,24 +33,24 @@
   - Clustering: 🎓 known
   - Watch filesystem changes with --watch: 👂 heard
 - Internal API
-  - Streams API: 👂 heard
+  - Streams API k
   - Web Streams API: 🎓 known
   - Crypto API: 🎓 known
   - Password hashing with crypto.scrypt: 🎓 known
   - Web Crypto API: 🎓 known
   - File system API (sync and async): 🖐️ used
   - Copy folder recursively
-  - Worker threads
-  - Performance hooks: 👂 heard
-  - Native fetch and nodejs/undici: 👂 heard
+  - Worker threads k
+  - Performance hooks k
+  - Native fetch and nodejs/undici u
   - async_hooks: 👂 heard
   - AsyncLocalStorage: 👂 heard
   - AsyncResource: 👂 heard
   - Deprecated domain API
   - Node.js single executable: 👂 heard
   - SharedArrayBuffer
-  - Module `node:worker_threads`: 👂 heard
-  - Module `node:child_process`: 🎓 known
+  - Module `node:worker_threads` u
+  - Module `node:child_process` u
   - MessageChannel, MessagePort: 🖐️ used
   - BroadcastChannel: 🖐️ used
   - Generating crypto random UUID
@@ -75,7 +75,7 @@
   - SSE: 🎓 known
   - HTTP/3 (QUIC): 👂 heard
   - Long polling
-  - REST
+  - REST u
   - RPC
   - Routing: 🖐️ used
   - DoS: 🎓 known
