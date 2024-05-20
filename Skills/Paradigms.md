@@ -12,14 +12,14 @@
   - Generic programming: 👂 heard
   - Concurrent computing
   - Asynchronous programming: 🎓 known
-  - Parallel programming: 👂 heard
-  - Reactive programming: 👂 heard
+  - Parallel programming u
+  - Reactive programming k
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 🎓 known
   - Metaprogramming
-  - Actor model
+  - Actor model h
   - Lambda calculus
   - Black box: 👂 heard
   - Information hiding: 👂 heard
@@ -65,22 +65,22 @@
   - Dependency inversion principle (DIP): 👂 heard
 - Patterns
   - Singleton: 🖐️ used
-  - Factory Method: 👂 heard
-  - Abstract Factory: 👂 heard
-  - Adapter: 👂 heard
-  - Observer: 👂 heard
-  - Strategy
-  - Facade
-  - Proxy: 👂 heard
-  - Chain of Responsibility
-  - Command
-  - Iterator: 👂 heard
-  - State
-  - Bridge
-  - Builder: 👂 heard
-  - Prototype
-  - Composite
-  - Decorator: 👂 heard
+  - Factory Method k
+  - Abstract Factory k
+  - Adapter k
+  - Observer k
+  - Strategy k
+  - Facade k
+  - Proxy k
+  - Chain of Responsibility h
+  - Command h
+  - Iterator k
+  - State k
+  - Bridge k
+  - Builder k
+  - Prototype k
+  - Composite k
+  - Decorator k
   - Flyweight
   - Mediator
   - Memento
@@ -88,4 +88,4 @@
   - Visitor
   - Reactor
   - Active object
-  - Delegation
+  - Delegation h
