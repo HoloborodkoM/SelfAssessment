@@ -1,45 +1,45 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
+  - Event loop u
+  - `try..catch` e
+  - Non-blocking h
+  - Async I/O h
+  - Thread pool h
+  - Pattern Reactor k
   - CAS operations
   - epoll
   - kqueue
-  - Completion ports
-  - Event ports
+  - Completion ports h
+  - Event ports h
   - libuv
   - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming
-  - Actor Model
-  - Thread
-  - Process
+  - Dead locks h
+  - Live locks h
+  - Concurrent programming h
+  - Parallel programming h
+  - Actor Model h
+  - Thread k
+  - Process h
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
+  - Callbacks u
+  - Callback-last-error-first h
+  - Thenable h
+  - Promise k
+  - Async/await u
   - Future
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
+  - Sync generator h
+  - Async Generator h
+  - Async Iterator h
+  - Event k
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream h
   - Chain of responsibility
   - Middleware
-  - Locks
+  - Locks h
 - Async adapters and utils
   - callbackify
   - promisify
@@ -47,35 +47,35 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter u
   - Observable/Observer
   - Readable
   - Writable
   - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
+  - Async Pool h
+  - Async Queue h
+  - Async Collector h
   - Semaphore
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - `setImmediate`
-  - `nextTick`
+  - Timers u
+  - `setImmediate` h
+  - `nextTick` h
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
-  - ref() and unref()
-  - Error handling in async code
+  - Callback hell h
+  - Promise hell h
+  - ref() and unref() h
+  - Error handling in async code u
   - Better stack traces with return await
-  - JSON streaming serialization
-  - AsyncLocalStorage
-  - AsyncResource
+  - JSON streaming serialization h
+  - AsyncLocalStorage h
+  - AsyncResource h
 - Techniques
   - Async.js library
   - RxJS library
