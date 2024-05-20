@@ -5,7 +5,7 @@
   - Components: 🖐️ used
   - Directories: 🖐️ used
   - GRASP: 👂 heard
-  - SOLID: 👂 heard
+  - SOLID k
   - GoF patterns
   - CQS
   - Leaking abstractions
@@ -20,8 +20,8 @@
   - Cyclomatic complexity
   - Reliability: 👂 heard
   - Quality: 👂 heard
-  - Availability: 👂 heard
-  - Flexibility: 👂 heard
+  - Availability k
+  - Flexibility k
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer: 👂 heard
@@ -36,13 +36,13 @@
   - Clean architecture: 👂 heard
   - Domain-driven design (DDD)
   - Pub/sub
-  - Message brocker
+  - Message brocker h
   - Agent
   - Service locator
   - Message Queue (MQ)
   - CQRS
-  - Event sourcing
-  - E-R data modeling: 👂 heard
+  - Event sourcing k
+  - E-R data modeling u
   - Entity-relationship diagram: 🖐️ used
   - IDEF1X
   - UML: 👂 heard
@@ -52,14 +52,14 @@
   - High-intensive computing
   - Load balancing
   - Gateways
-  - On-premises
+  - On-premises h
   - IaaS
   - PaaS
   - SaaS
   - FaaS clouds
   - Serverless: 🖐️ used
   - Vendor lock-in
-  - Bus factor
+  - Bus factor h
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
@@ -70,14 +70,14 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds k
   - BPMN
-  - Low-code
-  - No-code
+  - Low-code k
+  - No-code k
   - Metric
   - Metric abuse
-  - ACID
-  - CAP theorem
+  - ACID h
+  - CAP theorem h
   - Single source of truth (SSOT)
 - Enterprise architecture
   - Understanding business needs
@@ -87,14 +87,14 @@
   - Enterprise capabilities
   - Project scope
   - Enterprise service bus
-  - Service-oriented architecture
+  - Service-oriented architecture h
   - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
   - Data warehouse
   - Business Intelligence
-  - OLAP
-  - OLTP
+  - OLAP h
+  - OLTP h
   - Conways Law
   - Quality assurance
   - Engineering Hygiene
