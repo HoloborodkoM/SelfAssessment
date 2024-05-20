@@ -1,60 +1,60 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
-  - Performance tuning
-  - Migrations
-  - Schema versioning
-  - Backup and recovery
-  - Database scalability
-  - Relational databases
-  - Key-value store
+  - Data types u
+  - Performance tuning h
+  - Migrations h
+  - Schema versioning h
+  - Backup and recovery h
+  - Database scalability h
+  - Relational databases h
+  - Key-value store h
   - Tuple store
   - Graph databases
-  - Object databases
-  - Column databases
-  - Navigational databases
-  - Hierarchical databases
+  - Object databases h
+  - Column databases k
+  - Navigational databases h
+  - Hierarchical databases h
   - In-memory databases
   - Inverted index
   - Data control language (DCL)
   - Data definition language (DDL)
   - Data manipulation language (DML)
-  - Data query language (DQL)
+  - Data query language (DQL) h
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys
-  - Foreign keys
-  - Transactions
-  - Views
+  - Primary keys h
+  - Foreign keys h
+  - Transactions h
+  - Views h
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions h
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT` h
+  - `INSERT` h
+  - `UPDATE` h
+  - `DELETE` h
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `ORDER BY` h
+  - `GROUP BY` h
   - `HAVING`
   - `EXISTS`
-  - `JOIN`
+  - `JOIN` h
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
-  - `IN`
+  - `WHERE` h
+  - `LIKE` h
+  - `IN` h
   - `BETWEEN`
   - `CREATE TABLE`
   - `ALTER TABLE`
@@ -70,14 +70,14 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
-  - Oracle
-  - MySQL
+  - PostgreSQL h
+  - Oracle h
+  - MySQL h
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB h
   - Memcached
   - Riak
   - DB2
@@ -87,8 +87,8 @@
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
-  - Data analysis
-  - AI tools
-  - Cloud databases
-  - Data Visualization
+  - Big data h
+  - Data analysis h
+  - AI tools h
+  - Cloud databases h
+  - Data Visualization h
