@@ -12,72 +12,72 @@
   - Tuple store
   - Graph databases
   - Object databases: 👂 heard
-  - Column databases: 🎓 known
+  - Column databases u
   - Navigational databases: 👂 heard
   - Hierarchical databases: 👂 heard
   - In-memory databases
   - Inverted index
-  - Data control language (DCL)
-  - Data definition language (DDL)
-  - Data manipulation language (DML)
-  - Data query language (DQL): 👂 heard
+  - Data control language (DCL) k
+  - Data definition language (DDL) k
+  - Data manipulation language (DML) k
+  - Data query language (DQL) u
 - Relational
-  - Entity-Relationship Diagram
+  - Entity-Relationship Diagram h
   - Normal forms
   - Indexing
-  - Primary keys: 👂 heard
-  - Foreign keys: 👂 heard
-  - Transactions: 👂 heard
+  - Primary keys k
+  - Foreign keys k
+  - Transactions k
   - Views: 👂 heard
-  - Subqueries
+  - Subqueries h
   - Stored procedures
-  - SQL functions: 👂 heard
+  - SQL functions k
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`: 👂 heard
-  - `INSERT`: 👂 heard
-  - `UPDATE`: 👂 heard
-  - `DELETE`: 👂 heard
-  - `LIMIT`
-  - `OFFSET`
-  - `ORDER BY`: 👂 heard
-  - `GROUP BY`: 👂 heard
+  - `SELECT` u
+  - `INSERT` u
+  - `UPDATE` u
+  - `DELETE` u
+  - `LIMIT` u
+  - `OFFSET` u
+  - `ORDER BY` u
+  - `GROUP BY` u
   - `HAVING`
-  - `EXISTS`
-  - `JOIN`: 👂 heard
-  - `INNER JOIN`
+  - `EXISTS` u
+  - `JOIN` u
+  - `INNER JOIN` u
   - `LEFT JOIN`
   - `RIGHT JOIN`
-  - `UNION`
-  - `DISTINCT`
-  - `WHERE`: 👂 heard
-  - `LIKE`: 👂 heard
-  - `IN`: 👂 heard
-  - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
-  - `CHECK`
-  - `DEFAULT`
+  - `UNION` u
+  - `DISTINCT` u
+  - `WHERE` u
+  - `LIKE` u
+  - `IN` u
+  - `BETWEEN` u
+  - `CREATE TABLE` u
+  - `ALTER TABLE` u
+  - `DROP TABLE` u
+  - `PRIMARY KEY` u
+  - `FOREIGN KEY` u
+  - `CHECK` u
+  - `DEFAULT` u
   - `INDEX`
   - `UNIQUE`
-  - `GRANT`
+  - `GRANT` u
   - `REVOKE`
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL: 👂 heard
+  - PostgreSQL u
   - Oracle: 👂 heard
-  - MySQL: 👂 heard
-  - MariaDB
-  - MS SQL Server
+  - MySQL k
+  - MariaDB u
+  - MS SQL Server u
   - Redis
   - Rabbit
-  - MongoDB: 👂 heard
+  - MongoDB u
   - Memcached
   - Riak
   - DB2
@@ -87,8 +87,8 @@
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data: 👂 heard
-  - Data analysis: 👂 heard
-  - AI tools: 👂 heard
-  - Cloud databases: 👂 heard
+  - Big data k
+  - Data analysis k
+  - AI tools k
+  - Cloud databases k
   - Data Visualization: 👂 heard
