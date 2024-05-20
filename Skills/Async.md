@@ -5,22 +5,22 @@
   - `try..catch`: 🙋 explained
   - Non-blocking: 👂 heard
   - Async I/O: 👂 heard
-  - Thread pool k
+  - Thread pool: 🎓 known
   - Pattern Reactor: 🎓 known
-  - CAS operations h
+  - CAS operations: 👂 heard
   - epoll
   - kqueue
   - Completion ports: 👂 heard
   - Event ports: 👂 heard
   - libuv
-  - Race conditions k
-  - Dead locks k
-  - Live locks k
-  - Concurrent programming k
-  - Parallel programming u
-  - Actor Model k
-  - Thread u
-  - Process k
+  - Race conditions: 🎓 known
+  - Dead locks: 🎓 known
+  - Live locks: 🎓 known
+  - Concurrent programming: 🎓 known
+  - Parallel programming: 🖐️ used
+  - Actor Model: 🎓 known
+  - Thread: 🖐️ used
+  - Process: 🎓 known
 - Async contracts
   - Callbacks: 🖐️ used
   - Callback-last-error-first: 👂 heard
@@ -35,38 +35,38 @@
   - Event: 🎓 known
   - Coroutine
   - Goroutine
-  - Signal k
-  - Stream u
+  - Signal: 🎓 known
+  - Stream: 🖐️ used
   - Chain of responsibility
-  - Middleware h
-  - Locks u
+  - Middleware: 👂 heard
+  - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify
   - promisify
   - asyncify
-  - Callbacks compose h
-  - Async compose h
+  - Callbacks compose: 👂 heard
+  - Async compose: 👂 heard
 - Async abstractions interfaces
   - EventEmitter: 🖐️ used
   - Observable/Observer
   - Readable
   - Writable
   - Transform
-  - Async Pool k
-  - Async Queue k
-  - Async Collector k
-  - Semaphore u
-  - Mutex u
-  - Spin Lock u
+  - Async Pool: 🎓 known
+  - Async Queue: 🎓 known
+  - Async Collector: 🎓 known
+  - Semaphore: 🖐️ used
+  - Mutex: 🖐️ used
+  - Spin Lock: 🖐️ used
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
   - `setImmediate`: 👂 heard
   - `nextTick`: 👂 heard
   - AbortController
   - AbortSignal
-  - Promise unhandled rejection h
-  - Promise double resolve h
-  - Atomics h
+  - Promise unhandled rejection: 👂 heard
+  - Promise double resolve: 👂 heard
+  - Atomics: 👂 heard
   - High resolution clock
   - Callback hell: 👂 heard
   - Promise hell: 👂 heard
@@ -78,12 +78,12 @@
   - AsyncResource: 👂 heard
 - Techniques
   - Async.js library
-  - RxJS library h
-  - Promise.all h
-  - Promise.allSettled h
-  - Promise.race h
-  - Promise.any h
-  - Web Locks API k
+  - RxJS library: 👂 heard
+  - Promise.all: 👂 heard
+  - Promise.allSettled: 👂 heard
+  - Promise.race: 👂 heard
+  - Promise.any: 👂 heard
+  - Web Locks API: 🎓 known
   - IPC
   - Channel API
   - Revealing constructor

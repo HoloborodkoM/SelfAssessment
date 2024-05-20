@@ -5,7 +5,7 @@
   - Components: 🖐️ used
   - Directories: 🖐️ used
   - GRASP: 👂 heard
-  - SOLID k
+  - SOLID: 🎓 known
   - GoF patterns
   - CQS
   - Leaking abstractions
@@ -20,8 +20,8 @@
   - Cyclomatic complexity
   - Reliability: 👂 heard
   - Quality: 👂 heard
-  - Availability k
-  - Flexibility k
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer: 👂 heard
@@ -36,13 +36,13 @@
   - Clean architecture: 👂 heard
   - Domain-driven design (DDD)
   - Pub/sub
-  - Message brocker h
+  - Message brocker: 👂 heard
   - Agent
   - Service locator
   - Message Queue (MQ)
   - CQRS
-  - Event sourcing k
-  - E-R data modeling u
+  - Event sourcing: 🎓 known
+  - E-R data modeling: 🖐️ used
   - Entity-relationship diagram: 🖐️ used
   - IDEF1X
   - UML: 👂 heard
@@ -52,14 +52,14 @@
   - High-intensive computing
   - Load balancing
   - Gateways
-  - On-premises h
+  - On-premises: 👂 heard
   - IaaS
   - PaaS
   - SaaS
   - FaaS clouds
   - Serverless: 🖐️ used
   - Vendor lock-in
-  - Bus factor h
+  - Bus factor: 👂 heard
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
@@ -70,14 +70,14 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds k
+  - Clouds: 🎓 known
   - BPMN
-  - Low-code k
-  - No-code k
+  - Low-code: 🎓 known
+  - No-code: 🎓 known
   - Metric
   - Metric abuse
-  - ACID h
-  - CAP theorem h
+  - ACID: 👂 heard
+  - CAP theorem: 👂 heard
   - Single source of truth (SSOT)
 - Enterprise architecture
   - Understanding business needs
@@ -87,14 +87,14 @@
   - Enterprise capabilities
   - Project scope
   - Enterprise service bus
-  - Service-oriented architecture h
+  - Service-oriented architecture: 👂 heard
   - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
   - Data warehouse
   - Business Intelligence
-  - OLAP h
-  - OLTP h
+  - OLAP: 👂 heard
+  - OLTP: 👂 heard
   - Conways Law
   - Quality assurance
   - Engineering Hygiene
