@@ -17,12 +17,12 @@
   - Library: 🖐️ used
   - Package: 🖐️ used
   - Component: 🖐️ used
-  - Framework: 🎓 known
+  - Framework u
   - Platform: 🖐️ used
   - Source code: 🖐️ used
   - Object code: 👂 heard
   - Machine code: 🖐️ used
-  - Microcode
+  - Microcode h
   - Software engineering: 🖐️ used
   - Decomposition: 👂 heard
   - Control flow
@@ -30,7 +30,7 @@
   - Code reuse
   - Defensive programming
   - Don't repeat yourself (DRY)
-  - KISS principle
+  - KISS principle h
 - Syntax and concepts
   - Value: 🖐️ used
   - Identifier: 🖐️ used
