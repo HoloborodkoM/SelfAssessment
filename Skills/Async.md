@@ -5,22 +5,22 @@
   - `try..catch`: 🙋 explained
   - Non-blocking: 👂 heard
   - Async I/O: 👂 heard
-  - Thread pool: 👂 heard
+  - Thread pool k
   - Pattern Reactor: 🎓 known
-  - CAS operations
+  - CAS operations h
   - epoll
   - kqueue
   - Completion ports: 👂 heard
   - Event ports: 👂 heard
   - libuv
-  - Race conditions
-  - Dead locks: 👂 heard
-  - Live locks: 👂 heard
-  - Concurrent programming: 👂 heard
-  - Parallel programming: 👂 heard
-  - Actor Model: 👂 heard
-  - Thread: 🎓 known
-  - Process: 👂 heard
+  - Race conditions k
+  - Dead locks k
+  - Live locks k
+  - Concurrent programming k
+  - Parallel programming u
+  - Actor Model k
+  - Thread u
+  - Process k
 - Async contracts
   - Callbacks: 🖐️ used
   - Callback-last-error-first: 👂 heard
@@ -35,38 +35,38 @@
   - Event: 🎓 known
   - Coroutine
   - Goroutine
-  - Signal
-  - Stream: 👂 heard
+  - Signal k
+  - Stream u
   - Chain of responsibility
-  - Middleware
-  - Locks: 👂 heard
+  - Middleware h
+  - Locks u
 - Async adapters and utils
   - callbackify
   - promisify
   - asyncify
-  - Callbacks compose
-  - Async compose
+  - Callbacks compose h
+  - Async compose h
 - Async abstractions interfaces
   - EventEmitter: 🖐️ used
   - Observable/Observer
   - Readable
   - Writable
   - Transform
-  - Async Pool: 👂 heard
-  - Async Queue: 👂 heard
-  - Async Collector: 👂 heard
-  - Semaphore
-  - Mutex
-  - Spin Lock
+  - Async Pool k
+  - Async Queue k
+  - Async Collector k
+  - Semaphore u
+  - Mutex u
+  - Spin Lock u
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
   - `setImmediate`: 👂 heard
   - `nextTick`: 👂 heard
   - AbortController
   - AbortSignal
-  - Promise unhandled rejection
-  - Promise double resolve
-  - Atomics
+  - Promise unhandled rejection h
+  - Promise double resolve h
+  - Atomics h
   - High resolution clock
   - Callback hell: 👂 heard
   - Promise hell: 👂 heard
@@ -78,12 +78,12 @@
   - AsyncResource: 👂 heard
 - Techniques
   - Async.js library
-  - RxJS library
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
-  - Web Locks API
+  - RxJS library h
+  - Promise.all h
+  - Promise.allSettled h
+  - Promise.race h
+  - Promise.any h
+  - Web Locks API k
   - IPC
   - Channel API
   - Revealing constructor
